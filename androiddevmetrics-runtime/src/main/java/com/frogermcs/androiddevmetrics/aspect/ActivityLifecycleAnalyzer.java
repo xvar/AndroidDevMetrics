@@ -2,8 +2,6 @@ package com.frogermcs.androiddevmetrics.aspect;
 
 import android.app.Activity;
 import android.os.Debug;
-import android.os.Environment;
-import android.support.v4.app.FragmentActivity;
 
 import com.frogermcs.androiddevmetrics.internal.MethodsTracingManager;
 import com.frogermcs.androiddevmetrics.internal.metrics.ActivityLifecycleMetrics;

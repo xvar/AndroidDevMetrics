@@ -1,8 +1,8 @@
 package com.frogermcs.androiddevmetrics.internal.metrics;
 
 import android.app.Activity;
-import android.support.annotation.NonNull;
-import android.support.v7.view.WindowCallbackWrapper;
+import androidx.annotation.NonNull;
+import androidx.appcompat.view.WindowCallbackWrapper;
 import android.view.Window;
 
 import com.frogermcs.androiddevmetrics.internal.ActivityMetricDescription;
